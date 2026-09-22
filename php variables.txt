@@ -1,0 +1,8 @@
+<?php
+    $name = "Ali";       // Bilkul theek 
+    $_age = 20;          // Bilkul theek
+    $city123 = "Lahore"; // Bilkul theek 
+    
+    // $123city = "OK";   // GALAT! 
+    // $my name = "Ali";  // GALAT! .
+?>
