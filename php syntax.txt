@@ -1,0 +1,5 @@
+rules:
+1: php ko hamesha<?php aur ?> ke andar likhein.
+Har line ke end mein ; (semicolon) lagayen.
+Variable ke aage $ zaroor lagayen.
+Code ko samajhne ke liye Comments (//) ka istemal karein.
