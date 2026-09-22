@@ -1,0 +1,3 @@
+<?php
+    $khaliVariable = null; // Is variable mein abhi kuch nahi hai.
+?>
