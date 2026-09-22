@@ -1,0 +1,5 @@
+<?php
+    $umar = 25;      // Ye Integer hai
+    $minusMarks = -10; // Ye bhi Integer hai
+    $zero = 0;       // Ye bhi Integer hai
+?>
