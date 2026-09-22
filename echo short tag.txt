@@ -1,0 +1,2 @@
+<?=$name ?>
+ye shorcut hai php standard ka.
