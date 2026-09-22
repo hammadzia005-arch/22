@@ -1,0 +1,3 @@
+<?php
+    // Yahan aapki PHP ki code likhi jayegi
+?>
