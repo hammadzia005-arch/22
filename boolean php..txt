@@ -1,0 +1,4 @@
+<?php
+    $isStudent = true;   // Haan, wo student hai
+    $isPassed = false;   // Na, wo pass nahi hua
+?>
