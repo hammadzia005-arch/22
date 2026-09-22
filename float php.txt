@@ -1,0 +1,4 @@
+<?php
+    $price = 99.99;   // Ye Float hai
+    $piValue = 3.1416; // Ye bhi Float hai
+?>
