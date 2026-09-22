@@ -1,0 +1,7 @@
+<?php
+    $a = 5;      // Integer
+    $b = "5";    // String
+    
+    var_dump($a == $b);   // Output: true (kyunke value same hai)
+    var_dump($a === $b);  // Output: false (kyunke type alag hai: int vs string)
+?>
