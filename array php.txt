@@ -1,0 +1,7 @@
+<?php
+    // Ek variable mein 3 fruits store kiye
+    $fruits = array("Apple", "Banana", "Mango"); 
+    
+    // Ya aap chota tarika bhi use kar sakte hain:
+    $colors = ["Red", "Green", "Blue"]; 
+?>
