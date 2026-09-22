@@ -1,0 +1,11 @@
+<?php
+    $a = 10;
+    $b = 3;
+    
+    echo $a + $b;  // Output: 13
+    echo $a - $b;  // Output: 7
+    echo $a * $b;  // Output: 30
+    echo $a / $b;  // Output: 3.333...
+    echo $a % $b;  // Output: 1 (kyunke 10 ko 3 par taqseem karne par 1 bachta hai)
+    echo $a ** $b; // Output: 1000 (10 ki power 3)
+?>
