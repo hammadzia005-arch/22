@@ -1,0 +1,4 @@
+<?php
+    $meraNaam = "Ahmed";  // Ye String hai
+    $jumla = 'Hello World'; // Ye bhi String hai
+?>
