@@ -1,0 +1,6 @@
+<?php
+    $x = 10;
+    $x += 5;  // Ab $x ki value 15 ho gayi (10 + 5)
+    $x -= 3;  // Ab $x ki value 12 ho gayi (15 - 3)
+    $x *= 2;  // Ab $x ki value 24 ho gayi (12 * 2)
+?>
