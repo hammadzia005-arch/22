@@ -1,0 +1,10 @@
+<?php
+    $marks = 45;
+
+    if ($marks >= 50) {
+        echo "Pass";
+    } else {
+        echo "Fail";
+    }
+    // Output: Fail (kyunke 45, 50 se chota hai)
+?>
