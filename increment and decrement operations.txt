@@ -1,0 +1,8 @@
+<?php
+    $x = 5;
+    echo $x++;  // Output: 5 (pehle print hua, phir 6 hua)
+    echo $x;    // Output: 6 (ab 6 ho chuka hai)
+    
+    $y = 10;
+    echo ++$y;  // Output: 11 (pehle 11 hua, phir print hua)
+?>
