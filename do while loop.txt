@@ -1,0 +1,6 @@
+$y = 10;
+do {
+    echo "Ye line kam az kam ek dafa chalegi: " . $y . "<br>";
+    $y++;
+} while ($y < 5); 
+// Condition false hai magar output phir bhi ayega
