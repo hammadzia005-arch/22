@@ -1,0 +1,19 @@
+<?php
+    $age = 20;
+    $hasID = true;
+    
+    // AND (&&): Dono conditions true honi chahiye
+    if ($age >= 18 && $hasID) {
+        echo "Entry allowed";  // Ye print hoga
+    }
+    
+    // OR (||): Koi ek condition true ho toh kaam chalega
+    if ($age < 18 || $hasID) {
+        echo "Entry allowed";  // Ye bhi print hoga
+    }
+    
+    // NOT (!): Ulta kar deta hai
+    if (!$hasID) {
+        echo "No entry";  // Ye nahi print hoga
+    }
+?>
