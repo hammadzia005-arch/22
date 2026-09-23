@@ -1,0 +1,2 @@
+$fruits = ["Apple", "Banana", "Mango"];
+echo $fruits[1]; // Output: Banana
