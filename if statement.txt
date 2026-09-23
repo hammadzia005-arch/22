@@ -1,0 +1,3 @@
+if (condition) {
+    // Ye code tabhi chalega jab condition TRUE ho
+}
