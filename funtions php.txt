@@ -1,0 +1,8 @@
+// Function banana
+function addNumbers($a, $b) {
+    return $a + $b; // Result wapis bhejna
+}
+
+// Function call karna
+$result = addNumbers(5, 10);
+echo $result; // Output: 15
