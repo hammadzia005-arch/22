@@ -1,0 +1,21 @@
+<?php
+    $day = "Monday";
+
+    switch ($day) {
+        case "Monday":
+            echo "Aaj Monday hai, office jao.";
+            break; // Break zaroori hai, warna next case bhi chal jayega
+        
+        case "Friday":
+            echo "Aaj Friday hai, Jummah ki namaz.";
+            break;
+            
+        case "Sunday":
+            echo "Aaj Sunday hai, chutti hai!";
+            break;
+            
+        default:
+            echo "Koi normal din hai.";
+    }
+    // Output: Aaj Monday hai, office jao.
+?>
