@@ -1,0 +1,4 @@
+$greet = function($name) {
+    return "Hi " . $name;
+};
+echo $greet("Ahmed"); // Output: Hi Ahmed
