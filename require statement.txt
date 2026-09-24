@@ -1,0 +1,3 @@
+require 'database.php'; 
+// Agar database.php nahi mila, toh Fatal Error aayega aur neeche ka code nahi chalega.
+echo "Yeh line print nahi hogi agar file missing hai.";
