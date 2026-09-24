@@ -1,0 +1,3 @@
+include 'sidebar.php'; 
+// Agar sidebar.php nahi mila, toh warning aayegi magar page load hota rahega.
+echo "Page ka main content";
