@@ -1,0 +1,8 @@
+    <footer>
+        <p>Copyright &copy; 2026 <?php bloginfo('name'); ?></p>
+    </footer>
+
+    <!-- Yeh tag bohat zaroori hai, JavaScript aur Admin bar yahan load hota hai -->
+    <?php wp_footer(); ?> 
+</body>
+</html>
