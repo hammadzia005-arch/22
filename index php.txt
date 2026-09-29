@@ -1,0 +1,27 @@
+<?php 
+// header.php file ko yahan shamil karna
+get_header(); 
+?>
+
+<!-- Post ka Data -->
+<div class="post-container">
+    <!-- Post ka link aur Title -->
+    <h2>
+        <a href="<?php the_permalink(); ?>">
+            <?php the_title(); ?>
+        </a>
+    </h2>
+
+    <!-- Post ki Tasveer (Featured Image) -->
+    <?php the_post_thumbnail('medium'); ?>
+
+    <!-- Post ka poora text -->
+    <div class="content">
+        <?php the_content(); ?>
+    </div>
+</div>
+
+<?php 
+// footer.php file ko yahan shamil karna
+get_footer(); 
+?>
