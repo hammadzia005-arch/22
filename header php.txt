@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Site ka naam title mein dikhana -->
+    <title><?php bloginfo('name'); ?> - Home</title>
+    
+    <!-- Yeh tag bohat zaroori hai, plugins aur CSS yahan load hote hain -->
+    <?php wp_head(); ?> 
+</head>
+<body>
+    <header>
+        <h1>Welcome to <?php bloginfo('name'); ?></h1>
+    </header>
